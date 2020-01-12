@@ -1,5 +1,5 @@
 1. Create a jumbotron with a h1 element and paragraph element
-2. Include a button that links you to https://github.com/tpeterson66/Nikki_Dev.
+2. Include a button that links you to https://github.com/tpeterson66/Nikki_Dev/tree/master
 3. Make sure the button in the warning color and functional of course
 4. Create a new form to take username and password. Include a simple icon at the beginning of each input text box.
 5. Limit the text box to 25% of the screen width
